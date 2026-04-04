@@ -1,0 +1,3 @@
+Current: 20.9°C
+High: 29.6°C
+Low: 8.9°C
